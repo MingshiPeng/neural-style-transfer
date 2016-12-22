@@ -9,16 +9,19 @@ Basic usage:
 
 Generate an art image using slow version:
 
-    th slow-style-transfer.lua -cuda 
+    th slow-style-transfer.lua -cuda \
+       -vgg_path PATH/TO/VGG19/DIRECTORY \
+       -content_image PATH/TO/CONTENT_IMAGE.jpg \
+       -style_image   PATH/TO/STYLE_IMAGE.jpg \
+       -output_path   PATH/TO/OUTPUT/DIRECTORY
  
-  Output image will be put in the /output directory.
   
 Generate an art image using fast version:
 
     th fast-style-transfer.lua -cuda \
        -use_model PATH/TO/TRAINED_MODEL \ 
        -input_img PATH/TO/INPUT_IMAGE.jpg \
-       -output_img PATH/TO/OUTPUT_IMAGE.jpg \
+       -output_img PATH/TO/OUTPUT_IMAGE.jpg 
   
 Train an image transformation model (for fast version only):
 
