@@ -43,7 +43,7 @@ th fast-style-transfer.lua -cuda \
    -output_img PATH/TO/OUTPUT_IMAGE.jpg 
 ```
 
-Train an image transformation model
+Train an image transformation model:
 > Before training, please refer to **Step 1** of [Johnson's GitHub][TrainModel] on how to prepare the dataset and produce the hdf5 file needed for the training
 
 ```
