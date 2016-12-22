@@ -2,7 +2,7 @@
 
 This is Mingshi Peng & Peimeng Sui's final project for course [Computer Vision - CSCI-GA.2271-001][CVCourse].
 
-We implementate the paper [A Neural Algorithm of Artistic Style][Gatys] and   
+We implement the paper [A Neural Algorithm of Artistic Style][Gatys] and   
  [Perceptual Losses for Real-Time Style Transfer and Super-Resolution][Justin] using Torch.
 
 Our project report can be found [here][report].
