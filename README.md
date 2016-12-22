@@ -10,7 +10,7 @@ Our project report can be found [here][report].
 ## Slow Version - Optimization Based Style Transfer
  Based on the paper [A Neural Algorithm of Artistic Style][Gatys]
 ### Prerequisite
- Make sure to download VGG-19 before running the slow-style-tranfer.lua  
+ Make sure to download [VGG-19](https://gist.github.com/ksimonyan/3785162f95cd2d5fee77#file-readme-md) (and the prototxt file) before running the slow-style-tranfer.lua  
  Enable GPU(cuda) support for faster computation.
 
 ### Basic Usage:
