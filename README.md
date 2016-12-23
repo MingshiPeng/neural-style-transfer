@@ -7,6 +7,10 @@ We implement the paper [A Neural Algorithm of Artistic Style][Gatys] and
 
 Our project report can be found [here][report].
 
+Snapshot of our results:
+
+![some results](http://cs.nyu.edu/~mp4504/storage/result.png)
+
 ## Slow Version - Optimization Based Style Transfer
  Based on the paper [A Neural Algorithm of Artistic Style][Gatys]
 ### Prerequisite
