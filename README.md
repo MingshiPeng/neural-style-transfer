@@ -41,7 +41,7 @@ Generate an art image using pretrained models:
 > Pretrained models can be downloaded using /trained_model/download_trained_model.sh  
 
 ```
-th fast-style-transfer.lua -cuda \
+th fast_style_transfer.lua -cuda \
    -use_model  PATH/TO/TRAINED_MODEL \ 
    -input_img  PATH/TO/INPUT_IMAGE.jpg \
    -output_img PATH/TO/OUTPUT_IMAGE.jpg 
