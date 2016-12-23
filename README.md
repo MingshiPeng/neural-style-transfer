@@ -9,7 +9,7 @@ Our project report can be found [here][report].
 
 Snapshot of our results:
 
-![some results](http://cs.nyu.edu/~mp4504/storage/result.png)
+![some results][ResultImg]
 
 ## Slow Version - Optimization Based Style Transfer
  Based on the paper [A Neural Algorithm of Artistic Style][Gatys]
@@ -64,7 +64,7 @@ th train_model.lua -cuda \
 [Gatys]:https://arxiv.org/abs/1508.06576
 [Justin]:http://cs.stanford.edu/people/jcjohns/eccv16/
 [TrainModel]:https://github.com/jcjohnson/fast-neural-style/blob/master/doc/training.md
-[report]:http://cs.nyu.edu/~mp4504/Implementation-Two-Approaches.pdf
-
+[report]:http://cs.nyu.edu/~mp4504/storage/Implementation-Two-Approaches.pdf
+[ResultImg]:http://cs.nyu.edu/~mp4504/storage/result.png
 
 
